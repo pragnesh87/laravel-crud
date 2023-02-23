@@ -2,6 +2,7 @@
 
 > Step to run application
 
+-   clone repo
 -   composer install
 -   npm install
 -   configure database in .env file
